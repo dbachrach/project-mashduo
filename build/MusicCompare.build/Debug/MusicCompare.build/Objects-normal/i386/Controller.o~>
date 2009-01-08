@@ -1,0 +1,8 @@
+/Users/deb/Documents/Programming/MusicCompare/Controller.m: In function '-[Controller applicationDidFinishLaunching:]':
+/Users/deb/Documents/Programming/MusicCompare/Controller.m:24: warning: unused variable 'numUnFound'
+/Users/deb/Documents/Programming/MusicCompare/Controller.m: In function '-[Controller compareLibrary:withLibrary:]':
+/Users/deb/Documents/Programming/MusicCompare/Controller.m:78: warning: 'Controller' may not respond to '-removeParenthesisFromString:'
+/Users/deb/Documents/Programming/MusicCompare/Controller.m:78: warning: (Messages without a matching method signature
+/Users/deb/Documents/Programming/MusicCompare/Controller.m:78: warning: will be assumed to return 'id' and accept
+/Users/deb/Documents/Programming/MusicCompare/Controller.m:78: warning: '...' as arguments.)
+/Users/deb/Documents/Programming/MusicCompare/Controller.m:79: warning: 'Controller' may not respond to '-removeParenthesisFromString:'
